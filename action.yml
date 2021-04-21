@@ -1,6 +1,10 @@
 name: Setup FFmpeg
 description: Setup FFmpeg in GitHub Actions
 
+branding:
+  icon: 'anchor'  
+  color: 'green'
+  
 inputs:
   token:
     required: false
